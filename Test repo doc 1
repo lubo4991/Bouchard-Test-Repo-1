@@ -1,4 +1,12 @@
 Test Repo doc 1
 TEST CHANGE1
+<<<<<<< HEAD
 lubo shephard
 final change plz
+=======
+<<<<<<< HEAD
+Partner test change !!!!!!  
+=======
+lubo shephard
+>>>>>>> 44ffabf5281eca310ceebf2dd64535bcc8c783b7
+>>>>>>> ded4555f355bb08767bbd445f9e4a8e5bdcaaf84
