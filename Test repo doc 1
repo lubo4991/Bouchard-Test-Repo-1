@@ -1,6 +1,7 @@
 Test Repo doc 1
 TEST CHANGE1
 <<<<<<< HEAD
+<<<<<<< HEAD
 lubo shephard
 final change plz
 =======
@@ -10,3 +11,7 @@ Partner test change !!!!!!
 lubo shephard
 >>>>>>> 44ffabf5281eca310ceebf2dd64535bcc8c783b7
 >>>>>>> ded4555f355bb08767bbd445f9e4a8e5bdcaaf84
+=======
+Partner test change !!!!!! 
+go broncos
+>>>>>>> 21adf78959ab512fbaa819be17b46f498680c218
